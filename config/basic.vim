@@ -57,11 +57,11 @@ set title
 "set titleold="Terminal"
 set titlestring=%F
 
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
+"set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
 
-if exists("*fugitive#statusline")
-	set statusline+=%{fugitive#statusline()}
-endif
+"if exists("*fugitive#statusline")
+	"set statusline+=%{fugitive#statusline()}
+"endif
 
 " Enable folding
 set foldmethod=indent
