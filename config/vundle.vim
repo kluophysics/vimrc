@@ -24,7 +24,7 @@ Plugin 'scrooloose/nerdtree'
 
 "Plugin 'scrooloose/syntastic'
 
-"Plugin 'bling/vim-airline'
+Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
 "Plugin 'majutsushi/tagbar'
@@ -36,6 +36,9 @@ Plugin 'kien/ctrlp.vim'
 "Plugin 'gerw/vim-latex-suite'
 "
 "Plugin 'LaTeX-Box-Team/LaTeX-Box'
+
+Plugin 'lervag/vimtex'
+
 "Plugin 'auctex.vim'
 
 "Plugin 'flazz/vim-colorschemes'
