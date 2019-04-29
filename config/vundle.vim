@@ -20,14 +20,14 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'scrooloose/nerdtree'
 
-Plugin 'fugitive.vim'
+"Plugin 'fugitive.vim'
 
-Plugin 'scrooloose/syntastic'
+"Plugin 'scrooloose/syntastic'
 
-Plugin 'bling/vim-airline'
+"Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
-Plugin 'majutsushi/tagbar'
+"Plugin 'majutsushi/tagbar'
 
 Plugin 'Lokaltog/vim-easymotion'
 
@@ -35,22 +35,22 @@ Plugin 'kien/ctrlp.vim'
 
 "Plugin 'gerw/vim-latex-suite'
 "
-Plugin 'LaTeX-Box-Team/LaTeX-Box'
+"Plugin 'LaTeX-Box-Team/LaTeX-Box'
 "Plugin 'auctex.vim'
 
-Plugin 'flazz/vim-colorschemes'
+"Plugin 'flazz/vim-colorschemes'
 
 " Pick either ultisnips or the bundled 3 vim-snipmate
 Plugin 'SirVer/ultisnips'
 
-Plugin 'xuhdev/vim-latex-live-preview' " https://github.com/xuhdev/vim-latex-live-preview
+"Plugin 'xuhdev/vim-latex-live-preview' " https://github.com/xuhdev/vim-latex-live-preview
 
 "Plugin 'tomtom/tlib_vim'
 "Plugin 'garbas/vim-snipmate'
 "Plugin 'MarcWeber/vim-addon-mw-utils'
 
 " Optional but recommended snippets
-Plugin 'honza/vim-snippets'
+"Plugin 'honza/vim-snippets'
 
 " https://github.com/CodeFalling/fcitx-vim-osx
 " Plugin 'CodeFalling/fcitx-vim-osx'

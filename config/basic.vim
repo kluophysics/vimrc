@@ -6,7 +6,7 @@ syntax on
 
 set ruler
 
-set number
+"set number
 
 set showcmd
 
