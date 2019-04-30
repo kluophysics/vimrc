@@ -53,7 +53,7 @@ Plugin 'SirVer/ultisnips'
 "Plugin 'MarcWeber/vim-addon-mw-utils'
 
 " Optional but recommended snippets
-"Plugin 'honza/vim-snippets'
+Plugin 'honza/vim-snippets'
 
 " https://github.com/CodeFalling/fcitx-vim-osx
 " Plugin 'CodeFalling/fcitx-vim-osx'
