@@ -5,7 +5,9 @@ cd ~
 rm -irf ~/.vim
 rm -i ~/.vimrc
 
-git clone https://github.com/kluophysics/vimrc.git ~/.vim
+# assume the vimrc repo has been cloned into ~/.vim. if not do the following:
+#git clone https://github.com/kluophysics/vimrc.git ~/.vim
+
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 vim +PluginInstall +qall
