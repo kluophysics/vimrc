@@ -65,8 +65,9 @@ set titlestring=%F
 "endif
 
 " Enable folding
-set foldmethod=indent
-set foldlevel=99
+"set foldmethod=indent
+"set foldlevel=99
+set foldlevel=1
 
 set nocompatible
 " Use the OS clipboard by default (on versions compiled with `+clipboard`)
@@ -87,3 +88,18 @@ augroup END " }
 setlocal spell
 set spelllang=en_us
 inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
+
+
+"colorscheme molokai
+"colorscheme atom
+"colorscheme yuejiu
+"
+"set background=light
+set t_Co=256   " This is may or may not needed.
+
+set background=light
+colorscheme PaperColor
+
+"set background=dark
+"colorscheme PaperColor
+"colorscheme molokai

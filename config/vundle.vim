@@ -43,6 +43,8 @@ Plugin 'lervag/vimtex'
 
 "Plugin 'flazz/vim-colorschemes'
 
+Plugin 'NLKNguyen/papercolor-theme'
+
 " Pick either ultisnips or the bundled 3 vim-snipmate
 Plugin 'SirVer/ultisnips'
 
