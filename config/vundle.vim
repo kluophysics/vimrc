@@ -17,12 +17,13 @@ Plugin 'VundleVim/Vundle.vim'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
-
+Plugin 'Rykka/InstantRst'
 Plugin 'scrooloose/nerdtree'
 
-"Plugin 'fugitive.vim'
+Plugin 'fugitive.vim'
 
 "Plugin 'scrooloose/syntastic'
+Plugin 'rykka/riv.vim'
 
 Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'

@@ -103,3 +103,9 @@ colorscheme PaperColor
 "set background=dark
 "colorscheme PaperColor
 "colorscheme molokai
+"
+"
+map <C-t><up> :tabr<cr>
+map <C-t><down> :tabl<cr>
+map <C-t><left> :tabp<cr>
+map <C-t><right> :tabn<cr>
